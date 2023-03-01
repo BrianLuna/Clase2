@@ -13,6 +13,7 @@ public class Main {
             if(numeroInicio % 2 == 1 && !pares){
                 System.out.println(numeroInicio + 1);
                 System.out.println("Hola");
+                System.out.println("Chau");
             }
 
             numeroInicio++;
