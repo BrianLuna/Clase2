@@ -11,7 +11,7 @@ public class Main {
             }
 
             if(numeroInicio % 2 == 1 && !pares){
-                System.out.println("Hola");
+                System.out.println(numeroInicio + 1);
             }
 
             numeroInicio++;
